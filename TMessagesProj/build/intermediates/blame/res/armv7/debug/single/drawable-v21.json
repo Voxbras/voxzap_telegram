@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/fab_highlight_dark.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/fab_highlight_dark.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/bar_selector_lock.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_lock.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/regbtn_states.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/regbtn_states.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/bar_selector_white.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_white.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/list_selector_ex.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/list_selector_ex.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/drawable-v21/bar_selector_style.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_style.xml"
+    }
+]

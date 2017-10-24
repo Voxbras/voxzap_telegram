@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_activity_update.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_activity_update.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/player_big_notification.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/layout/player_big_notification.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/player_small_notification.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/layout/player_small_notification.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_activity_expiry_info.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_activity_expiry_info.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_activity_login.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_activity_login.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_fragment_update.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_fragment_update.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_view_feedback_message.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_view_feedback_message.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/layout/hockeyapp_activity_feedback.xml",
+        "source": "/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/res/layout/hockeyapp_activity_feedback.xml"
+    }
+]

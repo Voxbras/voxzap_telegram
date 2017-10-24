@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/auth_menu.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/auth_menu.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/provider_paths.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/contacts.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/contacts.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/sync_contacts.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/sync_contacts.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/auth.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/auth.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/xml/automotive_app_desc.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/xml/automotive_app_desc.xml"
+    }
+]

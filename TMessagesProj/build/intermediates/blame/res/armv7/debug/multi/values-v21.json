@@ -1,0 +1,343 @@
+[
+    {
+        "outputFile": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/incremental/mergeArmv7DebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4819,
+                        "endLine": 94,
+                        "endColumn": 12,
+                        "endOffset": 5040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4499,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 4784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 6396,
+                        "endLine": 134,
+                        "endColumn": 12,
+                        "endOffset": 6566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2557
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5076,
+                        "endLine": 100,
+                        "endColumn": 12,
+                        "endOffset": 5253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2562,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2762
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 5507,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2767,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2941
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5713,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 5887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2946,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 3160
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 5287,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 5501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3165,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3097,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 3268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 6093,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 6365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4147
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 4727
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4732,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 4904
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5893,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 6065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4909,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 5625
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3274,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 3990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5630,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 6104
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3996,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 4470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6109,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 6805
+                },
+                "from": {
+                    "file": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6572,
+                        "endLine": 148,
+                        "endColumn": 12,
+                        "endOffset": 7268
+                    }
+                }
+            }
+        ]
+    }
+]

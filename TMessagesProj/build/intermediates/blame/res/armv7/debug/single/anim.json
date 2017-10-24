@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/anim/popup_in.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/anim/popup_in.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/anim/popup_out.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/anim/popup_out.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/anim/no_animation.xml",
+        "source": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/src/main/res/anim/no_animation.xml"
+    }
+]

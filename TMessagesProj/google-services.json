@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "690843147824",
+    "firebase_url": "https://voxzap-3.firebaseio.com",
+    "project_id": "voxzap-3",
+    "storage_bucket": "voxzap-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690843147824:android:77526ccdc07a3620",
+        "android_client_info": {
+          "package_name": "br.com.voxzap.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690843147824-76jmlaq4vi67dc0f1i1ohv032fgq8cas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI3gZgsks1HlCk1SqXhCowF7XwnkQtag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690843147824:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690843147824-76jmlaq4vi67dc0f1i1ohv032fgq8cas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI3gZgsks1HlCk1SqXhCowF7XwnkQtag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690843147824:android:dc022572c167a16c",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690843147824-76jmlaq4vi67dc0f1i1ohv032fgq8cas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI3gZgsks1HlCk1SqXhCowF7XwnkQtag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

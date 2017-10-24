@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/vinicius/.android/build-cache/cff479ff5508b2a94dc28bed436dbd3da42b357d/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/vinicius/.android/build-cache/cff479ff5508b2a94dc28bed436dbd3da42b357d/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/vinicius/.android/build-cache/5938953788684ca45b924361264f1e787622c93e/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/vinicius/.android/build-cache/5938953788684ca45b924361264f1e787622c93e/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/backfinal/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/vinicius/.android/build-cache/cff479ff5508b2a94dc28bed436dbd3da42b357d/output/res/color/common_google_signin_btn_tint.xml"
+    }
+]

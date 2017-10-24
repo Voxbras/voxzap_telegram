@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">690843147824-76jmlaq4vi67dc0f1i1ohv032fgq8cas.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://voxzap-3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">690843147824</string>
+    <string name="google_api_key" translatable="false">AIzaSyCkI3gZgsks1HlCk1SqXhCowF7XwnkQtag</string>
+    <string name="google_app_id" translatable="false">1:690843147824:android:77526ccdc07a3620</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCkI3gZgsks1HlCk1SqXhCowF7XwnkQtag</string>
+    <string name="google_storage_bucket" translatable="false">voxzap-3.appspot.com</string>
+</resources>

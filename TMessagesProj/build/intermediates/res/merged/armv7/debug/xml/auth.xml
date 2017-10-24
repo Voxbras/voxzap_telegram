@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountPreferences="@xml/auth_menu"
+    android:accountType="br.com.voxzap.messenger"
+    android:icon="@drawable/ic_launcher"
+    android:label="@string/AppName"
+    android:smallIcon="@drawable/ic_launcher" />

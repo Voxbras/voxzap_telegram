@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/8e48bbff0c5f30fbfa8ddae87080ab6570bde39f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_521267b030f041221b14ea5e028c3740a1b93a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/178d07703116aff909ec830c37b678cad14c0994/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_2d1727514658cc1c2a6045d126d76a522d7cce97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.6/2f9b0233a54d1fcbf84867b0e2518842cb0cd965/isoparser-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/isoparser-1.0.6_7b5e40a164fdf20682252f530ccceee944e3b87c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/15a262957cb3551c40964226679abf897aa12072/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_0ba5d68af16809db856c37a7d8d47b5412d06c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/9f4d072e60af1c2855f34ab361937a36f0a6b147/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_ac7628e85fb83d91cf5f42a3daad4c9f6b13129a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/da1c8246c7beaa75f8a3fcb8a7cd2c11822dbef7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_84f42344277a5e03999c068e327acc441cf9bdf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/1e23783752da9a77f32d23652001a5eeabe0436f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_77a61c9386ae3f2210d034268980957f6cdc4540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/dd0544dc9d03095153b5bf690f63c3de77f0a1d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_839d0f40fa3b5197d7a0c8de8ce1f5d8216d4c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/e82295aeec55a9ef91fdb087335c86c34344876a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_893ec0580ac2970cb1ca477c601fab42e975bf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/09500e5d59bd26bb4b2e786968329914fbceedc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd2d3bfea24a25023d1e3b04fb3218120cc067f4">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_4e61676bb6cd653544ffa21d44b8667e31f53b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/c44431b02a1aeca0b11dfb1ebf2c1a26865e7c72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_d135700292a67f79a801f50d0d17f46c70707476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/9c7318ec5b5033faf0899a38040e69b6f5ecb06d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_66abc450d56cc14a9cff3a1e3be7f187cca0a4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/171522c3d93b9e5bd2c7c4f7dd3f41e99bf56124/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_e5093afcb536f26ae9c85a103b15c7ea568f6ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/3a239aa8ba8fa5fd68131c0f3a31b5fb828f2c5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_ca704b787eec57673a372d5d0da3474635fbc53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/2101ee6723ba64712040b136bf0539485e0960dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_518d9b9ab480be671b563aac6de2fd501abc7b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/bcb7e60b85e81094a2dfbb9317017e344652c72a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_45cf0a2737e441b1f39eb8e9e535a63a46a7dccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/5938953788684ca45b924361264f1e787622c93e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_6bc9d0dc7e3a2ce9dc1905c5c4da47b7006a8deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/support-annotations-25.3.1_547b2931199e2447624f55e33d3c6c02465e3f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/839e0db30efa20cb794ca5373289e0e0b269d2a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_cadade08932a5c276e8df3f78cfaa7030d070ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/8f1986bd031c58b5ed8cb45240c9617baea06c34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_729bd45a0ad8037449334e46cdea8cf443897c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/aspectjrt-1.8.2_eba55c565a659966b085904692da068b0aa90a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/350d12eec3bb2c1921bed212ac3065a556fc9eec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_ac4bc5984b6e72d8e1fe16f83f3811dc6f4043b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/eab268ae2792c4294867831bb87102dcacfb0e14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71c0d9292161cbd9cac50885517412cc1b0f79b3">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_a7a3fcc4344ce63cccb04693811bc6eac8c39684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/a44b1b650a5c77c088fada5bd9f05a8014231afd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_2b1a4a862f13a6c4d6e52cd0c53fba865457dabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/5b260f5e13bf4bbbb75fbd2d0a02a50f27d120c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_4e8fca277f1b52bfd66efd8e5e873cee15cf6a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinicius/.android/build-cache/cff479ff5508b2a94dc28bed436dbd3da42b357d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/vinicius/Documents/VoxBras/Telegram/voxzap3/Telegram/TMessagesProj/build/intermediates/pre-dexed/armv7/debug/classes_f180679c9037c10d340d03d3c04db19b44ea7cf4.jar" />
+    </item>
+
+</items>
